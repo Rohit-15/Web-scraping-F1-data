@@ -1,4 +1,4 @@
-# Web-scrapping-F1-data
+# Web-scraping-F1-data
 
 This project aims to conduct a comprehensive analysis of Formula 1 championship race results using web scraping techniques like BeautifulSoup, Selenium, and SQL for data management. The objective is to create a dataset to facilitate strategic decision-making and derive insights into driver performance trends over the last 10 years.
 
